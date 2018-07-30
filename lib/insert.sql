@@ -13,4 +13,4 @@ VALUES ("Grinch", 10, "M", "black", "nice", "Y");
 INSERT INTO bears (name, age, gender, color, temperament, alive)
 VALUES ("Wendy", 10, "M", "black", "nice", "Y");
 INSERT INTO bears (name, age, gender, color, temperament, alive)
-VALUES ("", 10, "M", "black", "nice", "Y");
+VALUES (NULL, 10, "M", "black", "nice", "Y");

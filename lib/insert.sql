@@ -1,4 +1,4 @@
-INSERT INTO bears ("Mr. Chocolate", "10", M, black, nice, Y)
+INSERT INTO bears ("Mr. Chocolate", 10, M, black, nice, Y)
 INSERT INTO bears ("Rowdy", 10, M, black, nice, Y)
 INSERT INTO bears ("Tabitha", 10, M, black, nice, Y)
 INSERT INTO bears ("Segeant Brown", 10, M, black, nice, Y)

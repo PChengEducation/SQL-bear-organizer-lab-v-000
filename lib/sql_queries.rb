@@ -1,5 +1,5 @@
 def selects_all_female_bears_return_name_and_age
-  "SELECT gender FROM bears where gender = 'F'"
+  "SELECT gender FROM bears where gender = 'F'";
   --result name age
 end
 
